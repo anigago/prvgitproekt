@@ -3,7 +3,7 @@ let ulTag = document.getElementById("lista");
 
 let person = {
     name:"Anita",
-    lastname:"Gago",
+    lastname:"Gagovska",
     age:34,
     phones: ["070509509", "078836124"]
 
